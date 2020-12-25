@@ -9,8 +9,8 @@ library(httpuv)
 
 # engadir http://localhost:1410/ en Redirect URIs
 
-id <- '60caf7d630d94336bee308f1d2b3e651'
-secret <- '56b4cca9e8184787920b2e7158c3c5ff'
+id <- '***'
+secret <- '***'
 
 Sys.setenv(SPOTIFY_CLIENT_ID = id)
 Sys.setenv(SPOTIFY_CLIENT_SECRET = secret)
